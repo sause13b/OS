@@ -1,3 +1,3 @@
 #pragma once
 
-void myfunc(); 
+void myfunc();
